@@ -42,6 +42,13 @@
 
 - mongoose: A MongoDB object modeling tool designed to work in an asynchronous environment. 
 
+- swagger-jsdoc: This library reads your JSDoc-annotated source code and generates an OpenAPI (Swagger) specification.
+
+- swagger-ui-express: This module allows you to serve auto-generated swagger-ui generated API docs from express, based on a swagger.json file. The result is living documentation for your API hosted from your API server via a route.
+
+-@types/swagger-jsdoc: @types/swagger-jsdoc.
+
+@types/swagger-ui-express: This package contains type definitions for swagger-ui-express.
 
 # Scripts:
 
